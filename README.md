@@ -1,5 +1,5 @@
 # My-Portfolio
-✨ Exciting News! I’ve officially launched my personal portfolio website! 🎉
+✨ Exciting News! I’ve developed my personal portfolio website! 🎉
 
 This website is more than just a collection of pages — it's a reflection of my journey as a Computer Science student, a curious problem-solver, and a passionate tech enthusiast.
 
